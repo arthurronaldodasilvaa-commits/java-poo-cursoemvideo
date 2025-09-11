@@ -1,12 +1,35 @@
-# ☕ Java POO — Curso em Vídeo
+<h1 align="center">☕ Java POO — Curso em Vídeo</h1>
 
-Exercícios e exemplos de **Programação Orientada a Objetos** em Java.
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/status-Em%20andamento-f59e0b?style=flat-square" />
+  <img alt="IDE" src="https://img.shields.io/badge/IDE-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
+</p>
 
-## Conteúdo
-- Classes/Objetos, encapsulamento
-- Herança, polimorfismo, interfaces
+---
 
-## Como executar
-- Projeto de estudos (NetBeans/CLI).
-## Licença
+<table>
+  <tr>
+    <td>
+      <h3>📚 Conteúdo</h3>
+      <ul>
+        <li>Classes e Objetos</li>
+        <li>Encapsulamento</li>
+        <li>Herança / Polimorfismo</li>
+        <li>Interfaces</li>
+      </ul>
+    </td>
+    <td>
+      <h3>🧭 Roadmap do repositório</h3>
+      <ul>
+        <li>[x] Classes & Objetos</li>
+        <li>[ ] Encapsulamento</li>
+        <li>[ ] Herança / Polimorfismo</li>
+        <li>[ ] Interfaces</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+## 📜 Licença
 MIT
