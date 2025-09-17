@@ -16,7 +16,7 @@ public class ExAula05 {
     public static void main(String[] args) {
         // TODO code application logic here
 
-        ContaBanco c1 = new ContaBanco("CC", "Arthur");
+        contaBanco c1 = new contaBanco("CC", "Arthur");
     }
     
 }

@@ -8,14 +8,14 @@ package exaula05;
  *
  * @author thurg
  */
-public class ContaBanco {
+public class contaBanco {
     public int numConta;
     protected String tipo;
     private String dono;
     private float saldo;
     private boolean status;
 
-    public ContaBanco(String tipo, String dono) {
+    public contaBanco(String tipo, String dono) {
         this.tipo = tipo;
         this.dono = dono;
         this.status = false;
