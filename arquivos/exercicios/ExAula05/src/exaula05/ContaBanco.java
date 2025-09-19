@@ -59,8 +59,8 @@ public class contaBanco {
         return dono;
     }
 
-    public float getSaldo() {
-        return saldo;
+    public void getSaldo() {
+        System.out.println("Seu saldo é de: " + this.saldo);
     }
 
     public boolean getStatus() {

@@ -17,6 +17,10 @@ public class ExAula05 {
         // TODO code application logic here
 
         contaBanco c1 = new contaBanco("CC", "Arthur");
+        c1.depositar(150.50f);
+        //System.out.println(c1.getSaldo());
+        c1.depositar(50);
+        c1.getSaldo();
     }
     
 }
